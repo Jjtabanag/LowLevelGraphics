@@ -1,0 +1,17 @@
+D:\Users\Jun Jeremy\Documents\MsVisualProjects\LowLevelGraphics\LowLevelGraphics\bin\Debug\net6.0-windows\LowLevelGraphics.exe
+D:\Users\Jun Jeremy\Documents\MsVisualProjects\LowLevelGraphics\LowLevelGraphics\bin\Debug\net6.0-windows\LowLevelGraphics.deps.json
+D:\Users\Jun Jeremy\Documents\MsVisualProjects\LowLevelGraphics\LowLevelGraphics\bin\Debug\net6.0-windows\LowLevelGraphics.runtimeconfig.json
+D:\Users\Jun Jeremy\Documents\MsVisualProjects\LowLevelGraphics\LowLevelGraphics\bin\Debug\net6.0-windows\LowLevelGraphics.dll
+D:\Users\Jun Jeremy\Documents\MsVisualProjects\LowLevelGraphics\LowLevelGraphics\bin\Debug\net6.0-windows\LowLevelGraphics.pdb
+D:\Users\Jun Jeremy\Documents\MsVisualProjects\LowLevelGraphics\LowLevelGraphics\obj\Debug\net6.0-windows\LowLevelGraphics.csproj.AssemblyReference.cache
+D:\Users\Jun Jeremy\Documents\MsVisualProjects\LowLevelGraphics\LowLevelGraphics\obj\Debug\net6.0-windows\LowLevelGraphics.Form1.resources
+D:\Users\Jun Jeremy\Documents\MsVisualProjects\LowLevelGraphics\LowLevelGraphics\obj\Debug\net6.0-windows\LowLevelGraphics.csproj.GenerateResource.cache
+D:\Users\Jun Jeremy\Documents\MsVisualProjects\LowLevelGraphics\LowLevelGraphics\obj\Debug\net6.0-windows\LowLevelGraphics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Jun Jeremy\Documents\MsVisualProjects\LowLevelGraphics\LowLevelGraphics\obj\Debug\net6.0-windows\LowLevelGraphics.AssemblyInfoInputs.cache
+D:\Users\Jun Jeremy\Documents\MsVisualProjects\LowLevelGraphics\LowLevelGraphics\obj\Debug\net6.0-windows\LowLevelGraphics.AssemblyInfo.cs
+D:\Users\Jun Jeremy\Documents\MsVisualProjects\LowLevelGraphics\LowLevelGraphics\obj\Debug\net6.0-windows\LowLevelGraphics.csproj.CoreCompileInputs.cache
+D:\Users\Jun Jeremy\Documents\MsVisualProjects\LowLevelGraphics\LowLevelGraphics\obj\Debug\net6.0-windows\LowLevelGraphics.dll
+D:\Users\Jun Jeremy\Documents\MsVisualProjects\LowLevelGraphics\LowLevelGraphics\obj\Debug\net6.0-windows\refint\LowLevelGraphics.dll
+D:\Users\Jun Jeremy\Documents\MsVisualProjects\LowLevelGraphics\LowLevelGraphics\obj\Debug\net6.0-windows\LowLevelGraphics.pdb
+D:\Users\Jun Jeremy\Documents\MsVisualProjects\LowLevelGraphics\LowLevelGraphics\obj\Debug\net6.0-windows\LowLevelGraphics.genruntimeconfig.cache
+D:\Users\Jun Jeremy\Documents\MsVisualProjects\LowLevelGraphics\LowLevelGraphics\obj\Debug\net6.0-windows\ref\LowLevelGraphics.dll
